@@ -1,42 +1,51 @@
-# Hemanth Billa
+<h1 align="center">Hemanth Billa</h1>
 
-I'm a software developer and technical trainer. Most of my time is spent either building something or explaining how it works to a classroom full of students. I enjoy both, and teaching has had a big influence on the way I write software.
+<p align="center">
+  <strong>Software Developer | Technical Trainer</strong>
+</p>
 
-I work mainly with JavaScript, TypeScript, React, Next.js, and Python. I also use FastAPI, Java, PostgreSQL, and Supabase across different projects. I'm particularly interested in tools that make everyday work simpler, whether that's preparing a lesson, managing a class, or running an assessment.
+<p align="center">
+  I build web applications, developer tools, and practical solutions for education.
+</p>
 
-## A few things I've built
+<p align="center">
+  <a href="https://www.linkedin.com/in/billa-hemanth/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:hemanthbilla.official@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-444444?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-**[TeachDraw](https://github.com/hemanthbilla-official/teachdraw)**  
-A tool I made for turning structured Markdown into editable tldraw boards. I wanted a faster way to prepare visual explanations for programming classes without having to draw every diagram from scratch.
+---
 
-**[Nxt-Quiz](https://github.com/hemanthbilla-official/Nxt-Quiz)**  
-An assessment app built with Next.js and Supabase. It includes section-based exams, randomized questions, timed attempts, and an admin dashboard for reviewing results. It grew out of the kinds of challenges I see while conducting assessments.
+### About me
 
-**[Attendance Tool](https://github.com/hemanthbilla-official/attendance-tool)**  
-A small project around a routine classroom task. Not every useful project needs to be complicated.
+I'm a software developer and technical trainer. I spend much of my time building applications and teaching programming to engineering students.
 
-**[Storefront Teaching Starter](https://github.com/hemanthbilla-official/MIET-7TH-SEM-STORE-FRONTEND)**  
-A React starter project for students. The idea is to begin with a static interface and gradually introduce components, state, API calls, routing, and other concepts as the course progresses.
+Teaching has shaped the way I approach development. I prefer breaking complex problems into smaller pieces, writing code that's easy to understand, and building tools that people can actually use.
 
-## Teaching is a big part of my work
+Most of my projects start with a problem I've encountered myself, from preparing classroom material to conducting assessments and automating repetitive work.
 
-I teach programming fundamentals and web development to engineering students. I like breaking topics into small, practical examples and giving students something they can actually run, change, and debug.
+### Technologies I work with
 
-Some of my repositories are classroom exercises rather than finished products. They're here because I believe the process of learning and experimenting is worth sharing too.
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,python,fastapi,postgres,supabase,html,css,git,github&perline=12" alt="JavaScript, TypeScript, React, Next.js, Python, FastAPI, PostgreSQL, Supabase, HTML, CSS, Git and GitHub" />
+</p>
 
-A few examples:
+### Selected projects
 
-- [FastAPI POST request examples](https://github.com/hemanthbilla-official/fastapi-post-request)
-- [Java mini-projects](https://github.com/hemanthbilla-official/java-mini-projects)
-- [Git branching exercises](https://github.com/hemanthbilla-official/git-branches)
-- [CSS practice template](https://github.com/hemanthbilla-official/miet-css-template)
+| Project | Description |
+|---------|-------------|
+| [TeachDraw](https://github.com/hemanthbilla-official/teachdraw) | Converts structured Markdown into editable tldraw boards for teaching programming concepts. |
+| [Nxt-Quiz](https://github.com/hemanthbilla-official/Nxt-Quiz) | An assessment platform using Next.js and Supabase, with timed exams, randomized questions and administrative analytics. |
+| **Project VOID** | A personal 3D portfolio built with Next.js and Three.js, exploring interactive navigation, camera transitions and spatial interfaces. |
+| [Attendance Tool](https://github.com/hemanthbilla-official/attendance-tool) | A utility for simplifying classroom attendance workflows. |
+| [TypeScript & React Debugging Challenge](https://github.com/hemanthbilla-official/typescript-react-bugs-questions) | A collection of 40 debugging exercises designed to strengthen TypeScript and React fundamentals. |
 
-## What I'm exploring
+### Beyond development
 
-Lately I've been interested in developer tools, classroom automation, and better ways to design and deliver programming assessments. I tend to start with a problem I've actually encountered and build from there.
+I work with engineering students on programming fundamentals, web development and practical software projects.
 
-You can find the rest of my work in my [repositories](https://github.com/hemanthbilla-official?tab=repositories).
+I enjoy exploring ways to make technical education more hands-on. That includes creating visual explanations, designing debugging exercises, and building tools that reduce the administrative work involved in teaching.
 
-## Get in touch
-
-If you'd like to talk about software development, teaching, or something I've built, you can reach me on [LinkedIn](https://www.linkedin.com/in/billa-hemanth/) or by [email](mailto:hemanthbilla.official@gmail.com).
